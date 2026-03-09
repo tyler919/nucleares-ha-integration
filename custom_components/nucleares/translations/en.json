@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to Nucleares Bridge",
+        "description": "Enter the address of the Nucleares bridge script running on your gaming PC.",
+        "data": {
+          "bridge_url": "Bridge URL (e.g. http://192.168.1.100:8765)",
+          "api_key": "API Key"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot reach the bridge. Check the URL and that the bridge script is running.",
+      "invalid_auth": "Invalid API key.",
+      "unknown": "Unexpected error. Check the HA logs."
+    },
+    "abort": {
+      "already_configured": "Nucleares is already configured."
+    }
+  }
+}
