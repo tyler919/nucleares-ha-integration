@@ -1,0 +1,10 @@
+{
+  "domain": "nucleares",
+  "name": "Nucleares",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/nucleares-ha-integration",
+  "requirements": [],
+  "codeowners": [],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
