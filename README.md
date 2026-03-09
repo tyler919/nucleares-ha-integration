@@ -1,7 +1,7 @@
 # Nucleares — Home Assistant Integration
 
 A custom Home Assistant integration that connects to the
-[Nucleares Bridge](https://github.com/yourusername/nucleares-bridge)
+[Nucleares Bridge](https://github.com/tyler919/nucleares-bridge)
 and exposes all reactor sensor data as native HA entities.
 
 ---
@@ -26,7 +26,7 @@ No credentials for Home Assistant are stored on the gaming PC.
 ## Requirements
 
 - Home Assistant 2024.1 or later
-- The [Nucleares Bridge](https://github.com/yourusername/nucleares-bridge)
+- The [Nucleares Bridge](https://github.com/tyler919/nucleares-bridge)
   running on your gaming PC and reachable from your HA server
 
 ---

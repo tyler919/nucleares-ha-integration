@@ -2,7 +2,7 @@
   "domain": "nucleares",
   "name": "Nucleares",
   "version": "1.0.0",
-  "documentation": "https://github.com/yourusername/nucleares-ha-integration",
+  "documentation": "https://github.com/tyler919/nucleares-ha-integration",
   "requirements": [],
   "codeowners": [],
   "config_flow": true,
